@@ -4,4 +4,4 @@ class Dog
      @name = name
    end 
  end 
- fido = Person.new("Fido")
+ fido = Person.new("Fido","Mutt")
