@@ -10,3 +10,4 @@ class Dog
   end 
   
 end
+foo = Dog.new("Foo")
