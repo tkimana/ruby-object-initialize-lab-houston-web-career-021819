@@ -6,4 +6,4 @@ class Dog
      @breed = "Mutt"
 end 
 end
-fido = Person.new('Fido',"Pug")
+fido = Person.new('Fido')
