@@ -1,6 +1,9 @@
 class Dog
-  attr_accessor :name
-  def initialize(name)
+  attr_accessor :breed
+  attr_reader = :name
+  def initialize(name,breed)
      @name = name
+     @breed = 
 end 
-end 
+end
+fido = Person.new('Fido',"")
