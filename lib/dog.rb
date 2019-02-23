@@ -3,7 +3,7 @@ class Dog
   attr_reader = :name
   def initialize(name,breed)
      @name = name
-     @breed = 
+     @breed = "Mutt"
 end 
 end
-fido = Person.new('Fido',"")
+fido = Person.new('Fido',"Pug")
