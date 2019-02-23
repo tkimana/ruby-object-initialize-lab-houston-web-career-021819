@@ -1,3 +1,4 @@
+require_relative "person.rb"
 class Dog
   attr_accessor :breed
   attr_reader = :name
